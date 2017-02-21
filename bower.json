@@ -1,0 +1,24 @@
+{
+  "name": "material-iconfont",
+  "homepage": "https://github.com/globalis-ms/material-iconfont",
+  "authors": [
+    "Nicolas Torres <nicolas.torres@globalis-ms.com>"
+  ],
+  "description": "Iconfont extracted from the original Google Material Design Icons package.",
+  "main": "iconfont/material-icons.css",
+  "keywords": [
+    "material",
+    "design",
+    "icons",
+    "iconfont",
+    "light"
+  ],
+  "license": "Apache",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
